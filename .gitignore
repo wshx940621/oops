@@ -1,0 +1,5 @@
+$ cd Code
+$ mkdir CV && cd CV
+$ git init
+$ git config --global user.name "wshx940621"
+$ git config --global user.email "wshx940621@live.cn"
